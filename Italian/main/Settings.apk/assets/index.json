@@ -1614,11 +1614,6 @@
           ]
         }, 
         {
-          "fragment": "com.android.settings.locale.MiuiLocaleSettings", 
-          "resource": "locale_settings", 
-          "class": "com.android.settings.search.tree.LocaleSettingsTree"
-        }, 
-        {
           "keywords": "search_security_privacy_settings_title", 
           "fragment": "com.android.settings.security.SecuritySettings", 
           "resource": "security_privacy_settings_title", 
